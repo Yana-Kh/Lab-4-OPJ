@@ -1,0 +1,6 @@
+a = float(input("Enter 1-st number: "))
+b = float(input("Enter 2-nd number: "))
+c = float(input("Enter 3-rd number: "))
+d = float(input("Enter 4-th number: "))
+res = (a + b)/(c + d)
+print("Result (a + b)/(c + d) = {0:5.2f}".format(res))
